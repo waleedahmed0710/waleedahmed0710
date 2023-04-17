@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer | Full Stack Enthusiast<br>Working in MEAN/MERN, Python and PHP<br>Collaborating with content creation about latest tech development.
+Hi, my name is Waleed and I am a Senior Software Engineer @ InvoZone Pvt. Ltd. I am a Full Stack Developer with experience in both MEAN/MERN Stack and Data Analysis. I am a backend heavy engineer with great experience across multiple backend technologies like Node JS, PHP, Python and Data Analysis skills with Python. I am skilled in several frontend frameworks like React and Angular as well which gives me great skill set as a full stack developer to meet any needs of a enterprise project. I am a skilled individual looking to connect with great minds in industry to grow my professional career more and also be helpful to any new talent with what I have to offer with my experience.
 
 
 ## 🌐 Socials:
